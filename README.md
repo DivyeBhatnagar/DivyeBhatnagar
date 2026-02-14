@@ -1,5 +1,5 @@
 # 🚀 Hi 👋, I'm Divye Bhatnagar
-**A passionate 2nd year Btech AI ML Student**
+**A passionate 2nd year Btech AI ML Student | IILM University, Greater Noida**
 
 Email Me 👉 ✉️ **divye.bhatnagar.cs28@iilm.edu.com** For Collaboration/Project or Anything Else. 😊😊
 
