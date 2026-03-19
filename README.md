@@ -14,4 +14,8 @@ Email Me 👉 ✉️ **divyebhatnagar784@gmail.com** For Collaboration/Project o
 ---
 [![](https://visitcount.itsvg.in/api?id=DivyeBhatnagar&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=divyebhatnagar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyebhatnagar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
